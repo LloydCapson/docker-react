@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        I'm not learning React
       </header>
     </div>
   );
